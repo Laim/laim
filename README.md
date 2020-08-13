@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laim</h1>
+<h1 align="center">Hi 👋, I'm Laim 🧸</h1>
 <h3 align="center">Open Source'd in the mind, I support Snow products too.</h3>
 <p align="center"> 
 <a href="https://twitter.com/lyeuhm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lyeuhm" height="30" width="30" /></a>
