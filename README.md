@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cubethot** (my first game!)
 
-- 🌱 I’m currently learning **Visual Studio for Mac**
+- 🌱 I’m currently learning **Unity 3D**
 
 - 👨‍💻 All of my projects are available at [https://laim.scot](https://laim.scot)
 
