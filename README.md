@@ -6,7 +6,7 @@
 <a href="https://instagram.com/lyeuhm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lyeuhm" height="30" width="30" /></a>
 </p>
 
-- 🔭 I’m currently working on **Snow Update Checker**
+- 🔭 I’m currently working on **Cubethot** (my first game!)
 
 - 🌱 I’m currently learning **Visual Studio for Mac**
 
