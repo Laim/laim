@@ -6,15 +6,15 @@
 <a href="https://instagram.com/lyeuhm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lyeuhm" height="30" width="30" /></a>
 </p>
 
-- 🔭 I’m currently working on **Cubethot** (my first game!)
+- 🔭 I’m currently working on **Snow Morning Checks**
 
-- 🌱 I’m currently learning **Unity 3D**
+- 🌱 I’m currently learning **how to cope with lockdown season 2**
 
 - 👨‍💻 All of my projects are available at [https://laim.scot](https://laim.scot)
 
 - 📝 I regulary write articles on [https://laim.scot/blog](https://laim.scot/blog)
 
-- 💬 Ask me about **C#, T-SQL**
+- 💬 Ask me about **C#, T-SQL, Snow Software**
 
 - 📫 How to reach me **me@laim.scot**
 
