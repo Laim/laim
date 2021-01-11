@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/lyeuhm" target="blank"><img src="https://img.shields.io/twitter/follow/lyeuhm?logo=twitter&style=for-the-badge" alt="lyeuhm" /></a> </p>
 
-- 🔭 I’m currently working on [Snow Platform Monitor](https://github.com/goosetuv/snow-platform-monitor)
+- 🔭 I’m currently working on [Snow Platform Monitor](https://laim.scot/blog/snow-platform-monitor-devlog-2)
 
 - 🌱 I’m currently learning **nothing!**
 
-- 👨‍💻 All of my projects are available at [https://laim.scot/projects](https://laim.scot/projects)
+- 👨‍💻 Most of my projects are available at [https://laim.scot/projects](https://laim.scot/projects)
 
-- 📝 I regulary write articles on [https://laim.scot/blog](https://laim.scot/blog)
+- 📝 I regulary write posts on [https://laim.scot/blog](https://laim.scot/blog)
 
 - 💬 Ask me about **C#, T-SQL, Snow Software**
 
-- 📫 How to reach me **me@laim.scot**
+- 📫 How to reach me: **me@laim.scot**
 
 - 📄 Know about my experiences [https://laim.scot/resume](https://laim.scot/resume)
 
