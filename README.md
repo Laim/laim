@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Snow Platform Monitor](https://laim.scot/blog/snow-platform-monitor-devlog-2)
 
-- 🌱 I’m currently learning **nothing!**
+- 🌱 I’m currently learning **Unity3D!**
 
 - 👨‍💻 Most of my projects are available at [https://laim.scot/projects](https://laim.scot/projects)
 
