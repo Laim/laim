@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lyeuhm" target="blank"><img src="https://img.shields.io/twitter/follow/lyeuhm?logo=twitter&style=for-the-badge" alt="lyeuhm" /></a> </p>
 
-- 🔭 I’m currently working on **[https://tlh.laim.scot](The Lonely Helmet)**
+- 🔭 I’m currently working on **[The Lonely Helmet](https://tlh.laim.scot)**
 
 - 🌱 I’m currently learning **Unity (2D)!**
 
