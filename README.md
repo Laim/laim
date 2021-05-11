@@ -23,3 +23,6 @@
 <a href="https://linkedin.com/in/laim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laim" height="30" width="40" /></a>
 <a href="https://instagram.com/goosetuv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lyeuhm" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">DMCA Notices:</h3>
+<p align="left">If you believe for any reason that I am infringing your copyright or trademarks, before contacting GitHub or hosting providers, please contact the email address above and we can resolve where necessary.  Due to work commitments, please allow up to 48hrs for a response.  Once an email has been received, the specific Repository will be made private until resolved.</p>
