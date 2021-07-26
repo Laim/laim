@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Laim 🧸</h1>
 <h3 align="center">Open Source'd in the mind, I support Snow products too.</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **TWT**
 
-- 🌱 I’m currently learning **Unity (2D)!**
+- 🌱 I’m currently learning ...
 
 - 👨‍💻 Most of my projects are available at [https://laim.scot/projects](https://laim.scot/projects)
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/lyeuhm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lyeuhm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/laim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laim" height="30" width="40" /></a>
-<a href="https://instagram.com/goosetuv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lyeuhm" height="30" width="40" /></a>
+<a href="https://instagram.com/lyeuhm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lyeuhm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">DMCA Notices:</h3>
