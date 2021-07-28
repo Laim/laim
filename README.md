@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Laim 🧸</h1>
 <h3 align="center">Open Source'd in the mind, I support Snow products too.</h3>
 
-- 🔭 I’m currently working on **TWT**
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
 
