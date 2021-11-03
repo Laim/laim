@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning ...
 
-- 👨‍💻 Most of my projects are available at [https://laim.scot/projects](https://laim.scot/projects)
+- 👨‍💻 Most of my projects are available at [Projects](https://laim.scot/projects)
 
-- 📝 I regulary write posts on [https://laim.scot/blog](https://laim.scot/blog)
+- 📝 I regulary write posts on [Blog](https://laim.scot/blog)
 
 - 💬 Ask me about **C#, T-SQL, Snow Software**
 
 - 📫 How to reach me: **me@laim.scot**
 
-- 📄 Know about my experiences [https://laim.scot/resume](https://laim.scot/resume)
+- 📄 Know about my experiences [Resume](https://laim.scot/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
