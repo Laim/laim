@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Lonely Helmet](https://store.steampowered.com/app/1730310/The_Lonely_Helmet/)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [MagicaVoxel](https://github.com/Laim/magicaVoxelModels)
 
 - 👨‍💻 Most of my projects are available at [Projects](https://laim.scot/projects)
 
