@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning [MagicaVoxel](https://github.com/Laim/magicaVoxelModels)
 
-- 👨‍💻 Most of my projects are available at [Projects](https://laim.scot/projects)
+- 👨‍💻 Most of my projects are available [here](https://laim.scot/projects)
 
-- 📝 I regulary write posts on [Blog](https://laim.scot/blog)
+- 📝 I regulary write posts on my [Blog](https://laim.scot/blog)
 
 - 💬 Ask me about **C#, T-SQL, Snow Software**
 
