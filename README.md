@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C#, T-SQL, Snow Software**
 
-- 📫 How to reach me: **me@laim.scot**
+- 📫 How to reach me: **me (at) laim.scot**
 
 - 📄 Know about my experiences [Resume](https://laim.scot/resume)
 
