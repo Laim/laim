@@ -1,9 +1,8 @@
 <h1 align="center">Hello, I'm Laim 🧸</h1>
-<h3 align="center">Open Source'd in the mind, I support Snow products too.</h3>
 
-- 🔭 I’m currently working on [The Lonely Helmet](https://store.steampowered.com/app/1730310/The_Lonely_Helmet/)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning [MagicaVoxel](https://github.com/Laim/magicaVoxelModels)
+- 🌱 I’m currently learning ...
 
 - 👨‍💻 Most of my projects are available [here](https://laim.scot/projects)
 
@@ -12,8 +11,6 @@
 - 💬 Ask me about **C#, T-SQL, Snow Software**
 
 - 📫 How to reach me: **me (at) laim.scot**
-
-- 📄 Know about my experiences [Resume](https://laim.scot/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
