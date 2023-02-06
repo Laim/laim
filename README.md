@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Laim 🧸</h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **Unnamed Cross-platform Application**
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-6.0)
 
 - 👨‍💻 Most of my projects are available [here](https://laim.scot/projects)
 
