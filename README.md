@@ -6,9 +6,9 @@
 
 - 👨‍💻 Most of my projects are available [here](https://laim.scot/projects)
 
-- 📝 I regulary write posts on my [Blog](https://laim.scot/blog)
+- 📝 I ~~regulary~~ sometimes write posts on my [Blog](https://laim.scot/blog)
 
-- 💬 Ask me about **C#, T-SQL, Snow Software**
+- 💬 Ask me about **C#, T-SQL, Snow Software, .NET MAUI**
 
 - 📫 How to reach me: **me (at) laim.scot**
 
