@@ -2,15 +2,15 @@
 
 - 🧑‍💼 I'm currently working at **SoftwareOne**
 
-- 🌱 I’m currently learning Laravel.  God help me.
+- 🌱 I’m currently learning...
 
 - 👨‍💻 Most of my projects are available [here](https://laim.scot/projects)
 
 - 📝 I sometimes write posts on my [Blog](https://laim.scot/blog)
 
-- 💬 Ask me about **C#, T-SQL, Snow Software, .NET MAUI**
+- 💬 Ask me about **C#, T-SQL, Snow Software**
 
-- 📫 How to reach me: **me (at) laim.scot**
+- 📫 How to reach me: **laimmc (at) laim.scot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
