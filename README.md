@@ -1,4 +1,7 @@
-<h1 align="center">Hello, I'm Laim 🧸</h1>
+<h1 align="center">Hello, I'm Laim 👋</h1>
+
+> [!IMPORTANT]
+> All views are my own and not of the company I work for or have worked for in the past.
 
 - 🧑‍💼 I've been working at **SoftwareOne** since 2022
 
